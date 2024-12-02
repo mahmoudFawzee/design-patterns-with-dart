@@ -17,13 +17,6 @@ abstract class Duck {
     required this.quackBehavior,
     required this.eatBehavior,
   });
-  //?it can quack or squeak or no sound
-  //bool quack();
-//?it can fly with wings or rocket or can not fly
-  //bool fly();
-
-  // bool eat();
-
   String display();
 
   @override
