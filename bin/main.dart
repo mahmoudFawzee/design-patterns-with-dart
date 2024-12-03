@@ -9,7 +9,8 @@ void main() {
   //?we also can use another way to sort later
   final context = SortingContext(BubbleSort());
   final list = [20, 50, 7, 1, 60, 3, 99, 100, 58, 455, 0];
-  log('per sort list : $list');
+  log('pre sort list : $list');
+
 //bubble sort
   // final intList = [2, 5, 4, 1, 3, 6, 9, 0, 2, 1, 5, 74];
   // final sortedList = context.sort(intList);
