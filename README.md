@@ -18,9 +18,9 @@ Ensure you have an editor like VS Code or Android Studio set up for Flutter deve
 Steps:
 
 # Clone the repository
-git clone https://github.com/username/my-awesome-project.git
+git clone https://github.com/mahmoudFawzee/design-patterns-with-dart.git
 
 # Navigate to the project directory
-cd my-awesome-project
+cd design-patterns-with-dart
 
 
